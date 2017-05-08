@@ -24,7 +24,6 @@ import java.util.*;
 import javax.swing.UIManager;
 
 import javax.inject.Inject;
-import javax.swing.*;
 
 import au.edu.qut.context.FakePluginContext;
 import au.edu.qut.util.LogOptimizer;
